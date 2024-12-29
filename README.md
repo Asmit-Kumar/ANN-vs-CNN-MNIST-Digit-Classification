@@ -1,3 +1,4 @@
+
 # ANN vs CNN: MNIST Digit Classification
 
 This project compares the performance of an Artificial Neural Network (ANN) and a Convolutional Neural Network (CNN) on the MNIST digit recognition task.
@@ -58,6 +59,4 @@ This project highlights the strength of CNNs for image classification tasks, dem
 3. Explore transfer learning for improved CNN accuracy.
 
 ---
-Feel free to fork, contribute, or provide feedback on this repository. Happy coding!"
-}
-
+Feel free to fork, contribute, or provide feedback on this repository. Happy coding!
