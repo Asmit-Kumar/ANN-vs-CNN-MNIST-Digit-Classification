@@ -49,7 +49,7 @@ Below is an example graph illustrating the CNN model's performance:
 This project highlights the strength of CNNs for image classification tasks, demonstrating their superior performance over traditional ANNs. The results indicate that CNNs are particularly well-suited for tasks involving spatial data, such as images.
 
 ## Links
-- [Kaggle Notebook](https://www.kaggle.com/code/asmitkumar12/digitrecog)
+- [CNN Notebook](https://www.kaggle.com/code/asmitkumar12/digitrecog)
 - [ANN Notebook](https://www.kaggle.com/code/asmitkumar12/anndigitsrcog)
 
 ---
